@@ -315,7 +315,7 @@ footer::before {
     gap: 9rem;
     align-items: start;
     text-align: left;
-    transform: translateX(10%);
+    transform: translateX(1rem);
     
     a{
       text-align: center;

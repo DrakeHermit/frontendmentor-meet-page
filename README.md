@@ -26,15 +26,15 @@ Users should be able to:
 
 ### Screenshots
 
-![](./starter-code/assets/desktop-version.png)
-![](./starter-code/assets/tablet-version.png)
-![](./starter-code/assets/mobile-version.jpg)
+![](./assets/desktop-version.png)
+![](./assets/tablet-version.png)
+![](./assets/mobile-version.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/DrakeHermit/frontendmentor-meet-page)
+- Live Site URL: [Live Site](https://drakehermit-meet.netlify.app/)
 
 ## My process
 
